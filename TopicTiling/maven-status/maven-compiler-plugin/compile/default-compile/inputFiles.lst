@@ -1,0 +1,15 @@
+/Users/riedl/work/workspaces/intern4.2/de.tudarmstadt.langtech.semantics.segmentation.topictiling/src/main/java/de/tudarmstadt/langtech/semantics/segmentation/segmenter/annotator/OutputSegments.java
+/Users/riedl/work/workspaces/intern4.2/de.tudarmstadt.langtech.semantics.segmentation.topictiling/src/main/java/de/tudarmstadt/langtech/semantics/type/SegmentQuantity_Type.java
+/Users/riedl/work/workspaces/intern4.2/de.tudarmstadt.langtech.semantics.segmentation.topictiling/src/main/java/de/tudarmstadt/langtech/semantics/segmentation/segmenter/annotator/TopicTilingDocumentSegmenterAnnotator.java
+/Users/riedl/work/workspaces/intern4.2/de.tudarmstadt.langtech.semantics.segmentation.topictiling/src/main/java/de/tudarmstadt/langtech/semantics/segmentation/segmenter/TopicTiling.java
+/Users/riedl/work/workspaces/intern4.2/de.tudarmstadt.langtech.semantics.segmentation.topictiling/src/main/java/de/tudarmstadt/langtech/ml/lda/type/GibbsLdaTopic.java
+/Users/riedl/work/workspaces/intern4.2/de.tudarmstadt.langtech.semantics.segmentation.topictiling/src/main/java/de/tudarmstadt/langtech/semantics/segmentation/segmenter/TopicTilingTopicDocument.java
+/Users/riedl/work/workspaces/intern4.2/de.tudarmstadt.langtech.semantics.segmentation.topictiling/src/main/java/de/tudarmstadt/langtech/semantics/type/SegmentQuantity.java
+/Users/riedl/work/workspaces/intern4.2/de.tudarmstadt.langtech.semantics.segmentation.topictiling/src/main/java/de/tudarmstadt/langtech/ml/lda/type/GibbsLdaTopic_Type.java
+/Users/riedl/work/workspaces/intern4.2/de.tudarmstadt.langtech.semantics.segmentation.topictiling/src/main/java/de/tudarmstadt/langtech/semantics/segmentation/segmenter/TextTilingWindowOptimized.java
+/Users/riedl/work/workspaces/intern4.2/de.tudarmstadt.langtech.semantics.segmentation.topictiling/src/main/java/de/tudarmstadt/langtech/semantics/segmentation/segmenter/annotator/TopicTilingSegmenterAnnotator.java
+/Users/riedl/work/workspaces/intern4.2/de.tudarmstadt.langtech.semantics.segmentation.topictiling/src/main/java/de/tudarmstadt/langtech/semantics/segmentation/segmenter/RunTopicTilingOnFile.java
+/Users/riedl/work/workspaces/intern4.2/de.tudarmstadt.langtech.semantics.segmentation.topictiling/src/main/java/de/tudarmstadt/langtech/semantics/type/SegmentScore.java
+/Users/riedl/work/workspaces/intern4.2/de.tudarmstadt.langtech.semantics.segmentation.topictiling/src/main/java/de/tudarmstadt/langtech/semantics/type/SegmentScore_Type.java
+/Users/riedl/work/workspaces/intern4.2/de.tudarmstadt.langtech.semantics.segmentation.topictiling/src/main/java/de/tudarmstadt/langtech/semantics/type/Segment.java
+/Users/riedl/work/workspaces/intern4.2/de.tudarmstadt.langtech.semantics.segmentation.topictiling/src/main/java/de/tudarmstadt/langtech/semantics/type/Segment_Type.java
